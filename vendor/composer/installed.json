@@ -1,0 +1,37 @@
+[
+    {
+        "name": "litong/composer_demo",
+        "version": "1.1.2",
+        "version_normalized": "1.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/l1905/composer_demo.git",
+            "reference": "92e2a2299b45d79a6f1f227230cc53d4af053b1b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/l1905/composer_demo/zipball/92e2a2299b45d79a6f1f227230cc53d4af053b1b",
+            "reference": "92e2a2299b45d79a6f1f227230cc53d4af053b1b",
+            "shasum": ""
+        },
+        "time": "2019-01-15T05:37:29+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "litong\\composer_demo\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "litong",
+                "email": "litonglitong@hotmail.com"
+            }
+        ],
+        "description": "测试实践composer"
+    }
+]
